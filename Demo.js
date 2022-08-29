@@ -1,7 +1,11 @@
-Subtract = (num1, num2) => {
-    console.log(num1 - num2)
+Multiply = (num1, num2) => {
+    console.log(num1 * num2)
 }
 
-Subtract(6, 3)
+Multiply(12, 40)
 
-//psst have a hint, its not here and its not in the fourth or final commit either.
+//  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
+//  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+//   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+//   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
+//   pariatur
