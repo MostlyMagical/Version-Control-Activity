@@ -1,7 +1,11 @@
-Divide = (num1, num2) => {
-    console.log(num1 / num2)
+Multiply = (num1, num2) => {
+    console.log(num1 * num2)
 }
 
-Divide(1400, 5)
+Multiply(1785, 8765)
 
-//  pssst here's a hint, the word is hidden in an even numbered commit
+//  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
+//  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+//   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+//   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
+//   pariatur
